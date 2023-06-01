@@ -1,6 +1,3 @@
-![BannerGIF](https://tenor.com/bWP1B.gif)
-
-
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :1.1.27](https://img.shields.io/badge/version-1.1.27-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ethanwllms&color=red)&nbsp;
@@ -32,7 +29,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Terrafrom](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white)&nbsp;
 
-![Tidal](https://img.shields.io/badge/Tidal-000000.svg?style=for-the-badge&logo=Tidal&logoColor=white)&nbsp;
+<a href="https://tidal.com/user/188899477"><img alt="Tidal" src="https://img.shields.io/badge/Tidal-000000.svg?style=for-the-badge&logo=Tidal&logoColor=white" /></a> &nbsp;
 ![MacOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)&nbsp;
 ![Raspberry-Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)&nbsp;
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)&nbsp;
